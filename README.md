@@ -1,8 +1,21 @@
-English -------------------------------
+# 👋 Welcome / Bienvenido
 
-Welcome to my repositories, I'm SS, I'm a developer, and here you will find multiple applications that i have been developing for sometime along,
-I wont have any problem if you want to use some of my codes, but if you use some of them, i will be really grateful if you give me a recognition of it.
+## 🇬🇧 English
 
-Spanish -------------------------------
+Hi, I'm **SS**, a passionate developer constantly building and sharing creative applications.  
+Here you'll find various projects I've developed over time — feel free to explore and use the code!  
+If you find something useful and wish to credit it, I'd deeply appreciate the recognition. 🙏
 
-Bienvenido a mis repositorios, soy SS, soy desarrollador, y aquí encontrarás varias aplicaciones que he estado desarrollando durante algún tiempo, no tendré ningún problema si quieres usar algunos de mis códigos, pero si usas algunos de ellos, estaré muy agradecido si me dan un reconocimiento de ello.
+📌 Check out my latest app:  
+👉 [🔐 Password Generator — secure, multilingual, elegant](https://github.com/Jomprate/PasswordGen)
+
+---
+
+## 🇪🇸 Español
+
+Hola, soy **SS**, un desarrollador apasionado que constantemente crea y comparte aplicaciones creativas.  
+Aquí encontrarás varios proyectos que he desarrollado a lo largo del tiempo. ¡Siéntete libre de usarlos!  
+Si algo te resulta útil y decides darme crédito, estaré muy agradecido. 🙏
+
+📌 Mira mi última aplicación:  
+👉 [🔐 Generador de Contraseñas — seguro, multilenguaje y elegante](https://github.com/Jomprate/PasswordGen)
